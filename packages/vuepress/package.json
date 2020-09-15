@@ -1,19 +1,19 @@
 {
   "name": "vuepress-rc",
-  "version": "1.5.4-8",
+  "version": "1.5.4-9",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "keywords": [
     "documentation",
     "generator",
     "vue"
   ],
-  "homepage": "https://github.com/vuejs/vuepress#readme",
+  "homepage": "https://github.com/YongHao0/vuepress#readme",
   "bugs": {
-    "url": "https://github.com/vuejs/vuepress/issues"
+    "url": "https://github.com/YongHao0/vuepress/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuepress.git",
+    "url": "git+https://github.com/YongHao0/vuepress.git",
     "directory": "packages/vuepress"
   },
   "license": "MIT",
@@ -29,8 +29,8 @@
     ">1%"
   ],
   "dependencies": {
-    "@vuepress-rc/core": "1.5.4-8",
-    "@vuepress-rc/theme-default": "1.5.4-8",
+    "@vuepress-rc/core": "1.5.4-9",
+    "@vuepress-rc/theme-default": "1.5.4-9",
     "cac": "^6.5.6",
     "envinfo": "^7.2.0",
     "opencollective-postinstall": "^2.0.2",
@@ -43,7 +43,7 @@
     "type": "opencollective",
     "url": "https://opencollective.com/vuepress"
   },
-  "gitHead": "10d29ce2de29926650fc3fdea87a1ebb735a1b35",
+  "gitHead": "960faae4edd7dc5665b335c4246a62034dd41113",
   "maintainers": [
     {
       "name": "ULIVZ",

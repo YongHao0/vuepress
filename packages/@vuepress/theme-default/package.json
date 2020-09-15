@@ -1,6 +1,6 @@
 {
   "name": "@vuepress-rc/theme-default",
-  "version": "1.5.4-8",
+  "version": "1.5.4-9",
   "description": "Default theme for VuePress",
   "keywords": [
     "documentation",
@@ -8,22 +8,22 @@
     "vue",
     "vuepress"
   ],
-  "homepage": "https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-default#readme",
+  "homepage": "https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/theme-default#readme",
   "bugs": {
-    "url": "https://github.com/vuejs/vuepress/issues"
+    "url": "https://github.com/YongHao0/vuepress/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuepress.git",
+    "url": "git+https://github.com/YongHao0/vuepress.git",
     "directory": "packages/@vuepress/theme-default"
   },
   "license": "MIT",
   "author": "Evan You",
   "main": "index.js",
   "dependencies": {
-    "@vuepress-rc/plugin-active-header-links": "1.5.4-8",
-    "@vuepress-rc/plugin-nprogress": "1.5.4-8",
-    "@vuepress-rc/plugin-search": "1.5.4-8",
+    "@vuepress-rc/plugin-active-header-links": "1.5.4-9",
+    "@vuepress-rc/plugin-nprogress": "1.5.4-9",
+    "@vuepress-rc/plugin-search": "1.5.4-9",
     "docsearch.js": "^2.5.2",
     "lodash": "^4.17.15",
     "stylus": "^0.54.8",
@@ -34,7 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "10d29ce2de29926650fc3fdea87a1ebb735a1b35",
+  "gitHead": "960faae4edd7dc5665b335c4246a62034dd41113",
   "maintainers": [
     {
       "name": "ULIVZ",

@@ -1,6 +1,6 @@
 {
   "name": "@vuepress-rc/theme-vue",
-  "version": "1.5.4-8",
+  "version": "1.5.4-9",
   "description": "VuePress theme for official Vue projects",
   "keywords": [
     "documentation",
@@ -8,25 +8,25 @@
     "vue",
     "vuepress"
   ],
-  "homepage": "https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme",
+  "homepage": "https://github.com/YongHao0/vuepress/blob/master/packages/@vuepress/theme-vue#readme",
   "bugs": {
-    "url": "https://github.com/vuejs/vuepress/issues"
+    "url": "https://github.com/YongHao0/vuepress/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuepress.git",
+    "url": "git+https://github.com/YongHao0/vuepress.git",
     "directory": "packages/@vuepress/theme-vue"
   },
   "license": "MIT",
   "author": "Evan You",
   "main": "index.js",
   "dependencies": {
-    "@vuepress-rc/theme-default": "1.5.4-8"
+    "@vuepress-rc/theme-default": "1.5.4-9"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "10d29ce2de29926650fc3fdea87a1ebb735a1b35",
+  "gitHead": "960faae4edd7dc5665b335c4246a62034dd41113",
   "maintainers": [
     {
       "name": "ULIVZ",
