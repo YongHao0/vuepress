@@ -1,6 +1,6 @@
 {
   "name": "@vuepress-rc/core",
-  "version": "1.5.4-7",
+  "version": "1.5.4-8",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "keywords": [
     "documentation",
@@ -25,11 +25,11 @@
   "dependencies": {
     "@babel/core": "^7.8.4",
     "@vue/babel-preset-app": "^4.1.2",
-    "@vuepress-rc/markdown": "1.5.4-7",
-    "@vuepress-rc/markdown-loader": "1.5.4-7",
-    "@vuepress-rc/plugin-last-updated": "1.5.4-7",
-    "@vuepress-rc/plugin-register-components": "1.5.4-7",
-    "@vuepress-rc/shared-utils": "1.5.4-7",
+    "@vuepress-rc/markdown": "1.5.4-8",
+    "@vuepress-rc/markdown-loader": "1.5.4-8",
+    "@vuepress-rc/plugin-last-updated": "1.5.4-8",
+    "@vuepress-rc/plugin-register-components": "1.5.4-8",
+    "@vuepress-rc/shared-utils": "1.5.4-8",
     "autoprefixer": "^9.5.1",
     "babel-loader": "^8.0.4",
     "cache-loader": "^3.0.0",
@@ -68,6 +68,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "gitHead": "10d29ce2de29926650fc3fdea87a1ebb735a1b35",
   "maintainers": [
     {
       "name": "ULIVZ",

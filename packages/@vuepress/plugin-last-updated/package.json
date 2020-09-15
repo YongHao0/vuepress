@@ -1,6 +1,6 @@
 {
   "name": "@vuepress-rc/plugin-last-updated",
-  "version": "1.5.4-7",
+  "version": "1.5.4-8",
   "description": "last-updated plugin for vuepress",
   "keywords": [
     "documentation",
@@ -25,5 +25,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "10d29ce2de29926650fc3fdea87a1ebb735a1b35"
 }

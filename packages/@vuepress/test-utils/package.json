@@ -1,6 +1,6 @@
 {
   "name": "@vuepress-rc/test-utils",
-  "version": "1.5.4-7",
+  "version": "1.5.4-8",
   "description": "test-utils for vuepress",
   "keywords": [
     "documentation",
@@ -25,8 +25,8 @@
     "@babel/preset-env": "^7.0.0",
     "@types/jest": "^24.0.9",
     "@vue/test-utils": "^1.0.0-beta.29",
-    "@vuepress-rc/core": "1.5.4-7",
-    "@vuepress-rc/shared-utils": "1.5.4-7",
+    "@vuepress-rc/core": "1.5.4-8",
+    "@vuepress-rc/shared-utils": "1.5.4-8",
     "babel-jest": "^24.7.1",
     "execa": "^1.0.0",
     "jest": "^24.7.1",
@@ -38,5 +38,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "10d29ce2de29926650fc3fdea87a1ebb735a1b35"
 }
