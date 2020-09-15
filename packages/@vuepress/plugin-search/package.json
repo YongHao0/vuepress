@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress/plugin-search",
-  "version": "1.5.4-5",
+  "name": "@vuepress-rc/plugin-search",
+  "version": "1.5.4-7",
   "description": "search plugin for vuepress",
   "keywords": [
     "documentation",

@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress/theme-vue",
-  "version": "1.5.4-5",
+  "name": "@vuepress-rc/theme-vue",
+  "version": "1.5.4-7",
   "description": "VuePress theme for official Vue projects",
   "keywords": [
     "documentation",
@@ -21,7 +21,7 @@
   "author": "Evan You",
   "main": "index.js",
   "dependencies": {
-    "@vuepress/theme-default": "1.5.4-5"
+    "@vuepress-rc/theme-default": "1.5.4-7"
   },
   "publishConfig": {
     "access": "public"
