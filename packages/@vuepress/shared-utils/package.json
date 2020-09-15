@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress/shared-utils",
-  "version": "1.5.7-1",
+  "name": "@vuepress-rc/shared-utils",
+  "version": "1.5.7-2",
   "description": "shared-utils for vuepress",
   "keywords": [
     "documentation",
@@ -45,5 +45,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "5dc36809bf91366904a1f2849d81647adb251157"
 }

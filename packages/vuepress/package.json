@@ -1,6 +1,6 @@
 {
   "name": "vuepress-rc",
-  "version": "1.5.7-1",
+  "version": "1.5.7-2",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "keywords": [
     "documentation",
@@ -43,7 +43,7 @@
     "type": "opencollective",
     "url": "https://opencollective.com/vuepress"
   },
-  "gitHead": "9e1a5af86bfc9530176d2f55b9c16049e779fbed",
+  "gitHead": "5dc36809bf91366904a1f2849d81647adb251157",
   "maintainers": [
     {
       "name": "ULIVZ",

@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress/markdown-loader",
-  "version": "1.5.7-1",
+  "name": "@vuepress-rc/markdown-loader",
+  "version": "1.5.7-2",
   "description": "markdown-loader for vuepress",
   "keywords": [
     "documentation",
@@ -28,6 +28,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "gitHead": "5dc36809bf91366904a1f2849d81647adb251157",
   "maintainers": [
     {
       "name": "ULIVZ",
