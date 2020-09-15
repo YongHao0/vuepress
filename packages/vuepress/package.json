@@ -1,6 +1,6 @@
 {
   "name": "vuepress-test",
-  "version": "1.5.4-2",
+  "version": "1.5.4-3",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "keywords": [
     "documentation",
@@ -43,7 +43,7 @@
     "type": "opencollective",
     "url": "https://opencollective.com/vuepress"
   },
-  "gitHead": "a3a752a4f78d0acb3e1b3172d42624fd3fa93a42",
+  "gitHead": "9e1a5af86bfc9530176d2f55b9c16049e779fbed",
   "maintainers": [
     {
       "name": "ULIVZ",
