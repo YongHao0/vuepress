@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress-rc/markdown",
-  "version": "1.5.4-10",
+  "name": "vuepress-rc-markdown",
+  "version": "1.5.4-11",
   "description": "markdown for vuepress",
   "keywords": [
     "documentation",
@@ -22,18 +22,18 @@
   "author": "Evan You",
   "main": "index.js",
   "dependencies": {
-    "@vuepress-rc/shared-utils": "1.5.4-10",
     "markdown-it": "^8.4.1",
     "markdown-it-anchor": "^5.0.2",
     "markdown-it-chain": "^1.3.0",
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-table-of-contents": "^0.4.0",
-    "prismjs": "^1.13.0"
+    "prismjs": "^1.13.0",
+    "vuepress-rc-shared-utils": "1.5.4-11"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6bb16aa6d4faf7b56fa87f181a0327a79db5e54e",
+  "gitHead": "781901560a521c808c5b68e118d36bf904dba3af",
   "maintainers": [
     {
       "name": "ULIVZ",

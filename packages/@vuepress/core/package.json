@@ -1,21 +1,12 @@
 {
-  "name": "@vuepress-rc/core",
-  "version": "1.5.4-10",
+  "name": "vuepress-rc-core",
+  "version": "1.5.4-11",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "keywords": [
     "documentation",
     "generator",
     "vue"
   ],
-  "homepage": "https://github.com/YongHao0/vuepress#readme",
-  "bugs": {
-    "url": "https://github.com/YongHao0/vuepress/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YongHao0/vuepress.git",
-    "directory": "packages/@vuepress/core"
-  },
   "license": "MIT",
   "author": "wangyonghao",
   "main": "lib/index.js",
@@ -25,11 +16,6 @@
   "dependencies": {
     "@babel/core": "^7.8.4",
     "@vue/babel-preset-app": "^4.1.2",
-    "@vuepress-rc/markdown": "1.5.4-10",
-    "@vuepress-rc/markdown-loader": "1.5.4-10",
-    "@vuepress-rc/plugin-last-updated": "1.5.4-10",
-    "@vuepress-rc/plugin-register-components": "1.5.4-10",
-    "@vuepress-rc/shared-utils": "1.5.4-10",
     "autoprefixer": "^9.5.1",
     "babel-loader": "^8.0.4",
     "cache-loader": "^3.0.0",
@@ -49,6 +35,7 @@
     "postcss-safe-parser": "^4.0.1",
     "toml": "^3.0.0",
     "url-loader": "^1.0.1",
+    "user": "0.0.0",
     "vue": "^2.6.10",
     "vue-loader": "^15.7.1",
     "vue-router": "^3.1.3",
@@ -56,6 +43,11 @@
     "vue-template-compiler": "^2.6.10",
     "vuepress-html-webpack-plugin": "^3.2.0",
     "vuepress-plugin-container": "^2.0.2",
+    "vuepress-rc-markdown": "1.5.4-9",
+    "vuepress-rc-markdown-loader": "1.5.4-9",
+    "vuepress-rc-plugin-last-updated": "1.5.4-9",
+    "vuepress-rc-plugin-register-components": "1.5.4-9",
+    "vuepress-rc-shared-utils": "1.5.4-9",
     "webpack": "^4.8.1",
     "webpack-chain": "^6.0.0",
     "webpack-dev-server": "^3.5.1",
@@ -64,6 +56,9 @@
   },
   "engines": {
     "node": ">=8.6"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "gitHead": "6bb16aa6d4faf7b56fa87f181a0327a79db5e54e"
 }

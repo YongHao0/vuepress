@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress-rc/theme-default",
-  "version": "1.5.4-10",
+  "name": "vuepress-rc-theme-default",
+  "version": "1.5.4-11",
   "description": "Default theme for VuePress",
   "keywords": [
     "documentation",
@@ -21,20 +21,20 @@
   "author": "Evan You",
   "main": "index.js",
   "dependencies": {
-    "@vuepress-rc/plugin-active-header-links": "1.5.4-10",
-    "@vuepress-rc/plugin-nprogress": "1.5.4-10",
-    "@vuepress-rc/plugin-search": "1.5.4-10",
     "docsearch.js": "^2.5.2",
     "lodash": "^4.17.15",
     "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2",
     "vuepress-plugin-container": "^2.0.2",
-    "vuepress-plugin-smooth-scroll": "^0.0.3"
+    "vuepress-plugin-smooth-scroll": "^0.0.3",
+    "vuepress-rc-plugin-active-header-links": "1.5.4-11",
+    "vuepress-rc-plugin-nprogress": "1.5.4-11",
+    "vuepress-rc-plugin-search": "1.5.4-11"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6bb16aa6d4faf7b56fa87f181a0327a79db5e54e",
+  "gitHead": "781901560a521c808c5b68e118d36bf904dba3af",
   "maintainers": [
     {
       "name": "ULIVZ",

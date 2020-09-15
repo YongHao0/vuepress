@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress-rc/plugin-pwa",
-  "version": "1.5.4-10",
+  "name": "vuepress-rc-plugin-pwa",
+  "version": "1.5.4-11",
   "description": "pwa plugin for vuepress",
   "keywords": [
     "documentation",
@@ -21,12 +21,12 @@
   "author": "wangyonghao",
   "main": "index.js",
   "dependencies": {
-    "@vuepress-rc/shared-utils": "1.5.4-10",
     "register-service-worker": "^1.7.0",
+    "vuepress-rc-shared-utils": "1.5.4-11",
     "workbox-build": "^4.3.1"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6bb16aa6d4faf7b56fa87f181a0327a79db5e54e"
+  "gitHead": "781901560a521c808c5b68e118d36bf904dba3af"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@vuepress-rc/markdown-loader",
-  "version": "1.5.4-10",
+  "name": "vuepress-rc-markdown-loader",
+  "version": "1.5.4-11",
   "description": "markdown-loader for vuepress",
   "keywords": [
     "documentation",
@@ -21,14 +21,14 @@
   "author": "Evan You",
   "main": "index.js",
   "dependencies": {
-    "@vuepress-rc/markdown": "1.5.4-10",
     "loader-utils": "^1.1.0",
-    "lru-cache": "^5.1.1"
+    "lru-cache": "^5.1.1",
+    "vuepress-rc-markdown": "1.5.4-11"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6bb16aa6d4faf7b56fa87f181a0327a79db5e54e",
+  "gitHead": "781901560a521c808c5b68e118d36bf904dba3af",
   "maintainers": [
     {
       "name": "ULIVZ",
