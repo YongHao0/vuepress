@@ -1,3 +1,9 @@
+
+<a name="1.5.4-3"></a>
+## [1.5.4-3](https://github.com/YongHao0/vuepress/compare/v1.5.4-2...v1.5.4-3) (2020-09-15)
+
+
+
 ## [1.5.4](https://github.com/vuejs/vuepress/compare/v1.5.3...v1.5.4) (2020-08-23)
 
 
