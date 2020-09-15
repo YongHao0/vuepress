@@ -1,6 +1,6 @@
 {
   "name": "vuepress-rc-plugin-nprogress",
-  "version": "1.5.4-13",
+  "version": "1.5.4-15",
   "description": "nprogress plugin for vuepress",
   "keywords": [
     "documentation",
@@ -26,5 +26,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "b0ca0ae1c8e5cbc6322becdc2a186cb316fca1be"
+  "gitHead": "e5709720fae0e70f34575fe12ef3947376ff0917"
 }

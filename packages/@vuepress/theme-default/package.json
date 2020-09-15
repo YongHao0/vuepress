@@ -1,6 +1,6 @@
 {
   "name": "vuepress-rc-theme-default",
-  "version": "1.5.4-13",
+  "version": "1.5.4-15",
   "description": "Default theme for VuePress",
   "keywords": [
     "documentation",
@@ -27,14 +27,14 @@
     "stylus-loader": "^3.0.2",
     "vuepress-plugin-container": "^2.0.2",
     "vuepress-plugin-smooth-scroll": "^0.0.3",
-    "vuepress-rc-plugin-active-header-links": "1.5.4-13",
-    "vuepress-rc-plugin-nprogress": "1.5.4-13",
-    "vuepress-rc-plugin-search": "1.5.4-13"
+    "vuepress-rc-plugin-active-header-links": "1.5.4-15",
+    "vuepress-rc-plugin-nprogress": "1.5.4-15",
+    "vuepress-rc-plugin-search": "1.5.4-15"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "b0ca0ae1c8e5cbc6322becdc2a186cb316fca1be",
+  "gitHead": "e5709720fae0e70f34575fe12ef3947376ff0917",
   "maintainers": [
     {
       "name": "ULIVZ",
