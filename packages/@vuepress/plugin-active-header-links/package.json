@@ -1,6 +1,6 @@
 {
   "name": "@vuepress-rc/plugin-active-header-links",
-  "version": "1.5.4-9",
+  "version": "1.5.4-10",
   "description": "active-header-links plugin for vuepress",
   "keywords": [
     "documentation",
@@ -18,7 +18,7 @@
     "directory": "packages/@vuepress/plugin-active-header-links"
   },
   "license": "MIT",
-  "author": "ULIVZ <chl814@foxmail.com>",
+  "author": "wangyonghao",
   "main": "index.js",
   "dependencies": {
     "lodash.debounce": "^4.0.8"
@@ -26,5 +26,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "960faae4edd7dc5665b335c4246a62034dd41113"
+  "gitHead": "6bb16aa6d4faf7b56fa87f181a0327a79db5e54e"
 }

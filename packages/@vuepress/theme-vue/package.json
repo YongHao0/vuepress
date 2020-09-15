@@ -1,6 +1,6 @@
 {
   "name": "@vuepress-rc/theme-vue",
-  "version": "1.5.4-9",
+  "version": "1.5.4-10",
   "description": "VuePress theme for official Vue projects",
   "keywords": [
     "documentation",
@@ -21,12 +21,12 @@
   "author": "Evan You",
   "main": "index.js",
   "dependencies": {
-    "@vuepress-rc/theme-default": "1.5.4-9"
+    "@vuepress-rc/theme-default": "1.5.4-10"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "960faae4edd7dc5665b335c4246a62034dd41113",
+  "gitHead": "6bb16aa6d4faf7b56fa87f181a0327a79db5e54e",
   "maintainers": [
     {
       "name": "ULIVZ",
